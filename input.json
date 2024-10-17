@@ -1,0 +1,127 @@
+[
+  {
+    "categoryName": "default",
+    "categorySlug": "/",
+    "pages": [
+      {
+        "pageTitle": "Class Schedule",
+        "metaDescription": "A structured timetable outlining the courses, times, and locations for educational classes.",
+        "slug": "/class-schedule/",
+        "pageHeading": "Class Schedule",
+        "pageDescription": "A structured timetable outlining the courses, times, and locations for educational classes.",
+        "pageContentBlocks": [
+          "## Description",
+          "A class schedule is an essential organizational tool used by students and educational institutions to manage course offerings and class attendance. It typically includes details such as the names of the courses, the times they are held, the classrooms where they take place, and the instructors assigned to each course. Class schedules can vary by semester or academic year and are crucial for students to plan their academic workload effectively. They also help institutions allocate resources, such as classroom space and faculty, ensuring that classes are properly staffed and equipped. In dual enrollment programs or PSEO (Postsecondary Enrollment Options), class schedules can also include a mix of high school and college courses, providing students with the opportunity to earn college credit while completing their high school education. Understanding how to read and interpret a class schedule is vital for students to navigate their academic pathways successfully.",
+          "## Examples",
+          "- A student checks their class schedule to find out when their biology class meets.\n- The university publishes an online class schedule for the upcoming semester.",
+          "## Additional Information",
+          "- Class schedules may also indicate whether a class is in-person, online, or hybrid.\n- Students should regularly check for updates or changes in their class schedules.",
+          "## References",
+          "- [PSEO Student Handbook - Glossary](https://sites.google.com/umn.edu/pseostudenthandbook/resources/glossary)\n- [File:Best-practices.owl](https://www.w3.org/2013/share-psi/wiki/File:Best-practices.owl)\n- [PSO, the Publishing Status Ontology](https://sparontologies.github.io/pso/current/pso.html)"
+        ]
+      },
+      {
+        "pageTitle": "Instructor",
+        "metaDescription": "An educator who facilitates learning and skill development in students.",
+        "slug": "/instructor/",
+        "pageHeading": "Instructor",
+        "pageDescription": "An educator who facilitates learning and skill development in students.",
+        "pageContentBlocks": [
+          "## Description",
+          "An instructor is a professional responsible for teaching and guiding students in various subjects, skills, or activities. In the context of education, instructors can work in formal settings such as schools, colleges, and universities, or in informal environments like workshops and training sessions. They design lesson plans, deliver lectures, conduct assessments, and provide feedback to enhance the learning experience. Instructors may specialize in specific disciplines, such as mathematics, science, language, or vocational training. Their role often extends beyond mere knowledge transmission; they also inspire and motivate students, fostering critical thinking and problem-solving skills. Effective instructors adapt their teaching methods to accommodate diverse learning styles and foster an inclusive environment. They are also responsible for staying updated with the latest educational practices and technologies to improve their teaching efficacy and student engagement.",
+          "## Examples",
+          "- A university professor teaching advanced physics courses.\n- A certified trainer leading a workshop on digital marketing.",
+          "## Additional Information",
+          "- Instructors may hold advanced degrees or relevant certifications in their field.\n- They often participate in professional development to enhance their teaching skills.",
+          "## References",
+          "- [PSEO Student Handbook - Glossary](https://sites.google.com/umn.edu/pseostudenthandbook/resources/glossary)\n- [Sec. 124D.09 MN Statutes](https://www.revisor.mn.gov/statutes/cite/124d.09)\n- [[PDF] Dual Enrollment Course Offerings List FINAL DRAFT](https://www.unwsp.edu/wp-content/uploads/PSEO-and-Early-College/Dual-Enrollment-Online-Course-Offerings.pdf)"
+        ]
+      },
+      {
+        "pageTitle": "Online Courses",
+        "metaDescription": "Courses delivered via the internet that allow students to learn remotely.",
+        "slug": "/online-courses/",
+        "pageHeading": "Online Courses",
+        "pageDescription": "Courses delivered via the internet that allow students to learn remotely.",
+        "pageContentBlocks": [
+          "## Description",
+          "Online courses are educational programs offered over the internet, allowing students to engage with course material from anywhere in the world. They can be part of degree programs, professional certifications, or standalone learning experiences. Online courses utilize various digital tools and platforms, enabling interactive learning through video lectures, quizzes, discussion forums, and assignments. Students can access content at their own pace, which provides flexibility for those balancing work, family, or other commitments. Many online courses also incorporate multimedia elements, such as podcasts and interactive simulations, to enhance learning. The rise of online education has democratized access to knowledge, making it easier for individuals to pursue their educational goals regardless of geographical or financial barriers. Additionally, online courses often foster a diverse learning community, where students from different backgrounds can collaborate and share perspectives, enriching the educational experience.",
+          "## Examples",
+          "- Coursera offers online courses from top universities and companies.\n- edX provides a platform for online learning with courses from prestigious institutions.",
+          "## Additional Information",
+          "- Many online courses are self-paced, allowing learners to set their own schedules.\n- Certificates of completion are often available for online courses, which can enhance resumes.",
+          "## References",
+          "- [Online Course Options | Bethel University](https://www.bethel.edu/advising-center/prospective-students/pseo-dual-enrollment/online-course-list)\n- [PSEO Student Handbook - Glossary](https://sites.google.com/umn.edu/pseostudenthandbook/resources/glossary)\n- [[PDF] Dual Enrollment Course Offerings List FINAL DRAFT](https://www.unwsp.edu/wp-content/uploads/PSEO-and-Early-College/Dual-Enrollment-Online-Course-Offerings.pdf)"
+        ]
+      },
+      {
+        "pageTitle": "Campus Resources",
+        "metaDescription": "Facilities and services provided by an educational institution to support students' academic and personal development.",
+        "slug": "/campus-resources/",
+        "pageHeading": "Campus Resources",
+        "pageDescription": "Facilities and services provided by an educational institution to support students' academic and personal development.",
+        "pageContentBlocks": [
+          "## Description",
+          "Campus resources encompass a wide range of facilities, services, and support systems designed to enhance the academic experience of students and facilitate their personal growth. These resources may include libraries, academic advising services, tutoring centers, mental health services, career counseling, and various student organizations. Additionally, campus resources often provide access to technology, study spaces, and recreational facilities. They play a crucial role in helping students navigate their educational journey, offering support for both academic challenges and personal well-being. Engaging with these resources can improve students' academic performance, foster a sense of community, and enhance overall student satisfaction. Institutions often promote these resources through orientation programs and student handbooks to ensure that students are aware of the assistance available to them. By utilizing campus resources, students can better adapt to college life, develop important skills, and build a network of support that can aid them throughout their academic careers and beyond.",
+          "## Examples",
+          "- Library services, including research assistance and study spaces.\n- Counseling and psychological services for mental health support.",
+          "## Additional Information",
+          "- Campus resources are often free or low-cost for students.\n- Many institutions regularly assess and update their resources based on student feedback and needs.",
+          "## References",
+          "- [PSEO Student Handbook - Glossary](https://sites.google.com/umn.edu/pseostudenthandbook/resources/glossary)\n- [[PDF] English-Spanish Glossary of Student Financial Aid and ... - NASFAA](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf)\n- [[PDF] PSEO - ONLINE - Crown College](https://www.crown.edu/wp-content/uploads/2024/02/PSEO_Online_24_Flyer-Handout-With-Course-Descriptions.pdf)"
+        ]
+      },
+      {
+        "pageTitle": "Academic Advising",
+        "metaDescription": "A process that assists students in understanding their academic options and making informed decisions about their educational paths.",
+        "slug": "/academic-advising/",
+        "pageHeading": "Academic Advising",
+        "pageDescription": "A process that assists students in understanding their academic options and making informed decisions about their educational paths.",
+        "pageContentBlocks": [
+          "## Description",
+          "Academic advising is a collaborative process between students and academic advisors that aims to support students in their educational journey. Advisors provide guidance on course selection, degree requirements, and career pathways, helping students to navigate their academic experiences effectively. This process often includes discussing a student's goals, interests, and strengths, as well as helping them understand institutional policies and resources available to them. Effective academic advising empowers students to take ownership of their education, encouraging them to set academic and career goals, explore majors, and make informed decisions that align with their aspirations. Additionally, advisors can connect students with support services, such as tutoring or counseling, that may enhance their academic success. Overall, academic advising is crucial in fostering student engagement, retention, and achievement in higher education.",
+          "## Examples",
+          "- Assisting a student in selecting courses for their major based on career interests.\n- Guiding a student through the process of transferring to another institution.",
+          "## Additional Information",
+          "- Academic advising often includes regular meetings to monitor student progress.\n- Advisors may also provide information on internships, scholarships, and extracurricular activities.",
+          "## References",
+          "- [PSEO Student Handbook - Glossary](https://sites.google.com/umn.edu/pseostudenthandbook/resources/glossary)\n- [CSE Academic Advising FAQ - UMN-CSE - University of Minnesota](https://cse.umn.edu/college/academic-advising/cse-academic-advising-faq)\n- [[PDF] PSEO - ONLINE - Crown College](https://www.crown.edu/wp-content/uploads/2024/02/PSEO_Online_24_Flyer-Handout-With-Course-Descriptions.pdf)"
+        ]
+      },
+      {
+        "pageTitle": "Student Support Services",
+        "metaDescription": "Services designed to assist students in their academic and personal development.",
+        "slug": "/student-support-services/",
+        "pageHeading": "Student Support Services",
+        "pageDescription": "Services designed to assist students in their academic and personal development.",
+        "pageContentBlocks": [
+          "## Description",
+          "Student Support Services encompass a wide range of programs and resources that aim to support students in their educational journey. These services are designed to address various aspects of student life, including academic advising, counseling, tutoring, and career services. They play a crucial role in helping students navigate the challenges of their academic pursuits, enhance their learning experiences, and promote personal growth. Support services can also include specialized programs for students with disabilities, mental health resources, and workshops on study skills and time management. By providing these resources, educational institutions aim to create an inclusive environment that fosters student success and retention. The effectiveness of these services often contributes to improved academic performance and overall student satisfaction, making them an integral part of the educational framework. Ultimately, Student Support Services are essential for ensuring that all students have equitable access to the resources they need to thrive in their academic and personal lives.",
+          "## Examples",
+          "- Academic advising and planning assistance\n- Mental health counseling and wellness programs",
+          "## Additional Information",
+          "- Many institutions offer online resources for remote support.\n- Student Support Services often collaborate with faculty to enhance student engagement.",
+          "## References",
+          "- [PSEO Student Handbook - Glossary](https://sites.google.com/umn.edu/pseostudenthandbook/resources/glossary)\n- [[PDF] English-Spanish Glossary of Student Financial Aid and ... - NASFAA](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf)\n- [Glossary of Terms and Concepts Chapter 2](https://pseocoalition.org/wp-content/uploads/2024/05/PSEO-Coalition-Glossary-of-Terms-and-Concepts.pdf)"
+        ]
+      },
+      {
+        "pageTitle": "Graduation Requirements",
+        "metaDescription": "Criteria that students must meet to successfully complete their educational program and graduate.",
+        "slug": "/graduation-requirements/",
+        "pageHeading": "Graduation Requirements",
+        "pageDescription": "Criteria that students must meet to successfully complete their educational program and graduate.",
+        "pageContentBlocks": [
+          "## Description",
+          "Graduation requirements refer to the set of standards and criteria established by educational institutions that students must fulfill to be eligible for graduation. These requirements often encompass a combination of credit hours, specific courses, assessments, and sometimes other activities such as community service or internships. For high school students, graduation requirements typically include completing a certain number of core subjects like mathematics, science, and English, along with elective courses. In higher education, graduation requirements may involve completing a major, a minor, general education courses, and maintaining a minimum GPA. Additionally, some programs may require students to pass comprehensive exams, complete a thesis, or participate in practical experiences. Meeting these requirements ensures that students have attained the necessary knowledge and skills for their chosen field and are prepared for further education or the workforce.",
+          "## Examples",
+          "- High school diploma requirements may include 4 years of English, 3 years of math, and 2 years of science.\n- A college degree may require a minimum of 120 credit hours, including core courses and electives.",
+          "## Additional Information",
+          "- Requirements can vary significantly between different states and educational institutions.\n- Students should consult their school's academic advisor to understand specific graduation requirements.",
+          "## References",
+          "- [PSEO Student Handbook - Glossary](https://sites.google.com/umn.edu/pseostudenthandbook/resources/glossary)\n- [PSEO Student Handbook - Science](https://sites.google.com/umn.edu/pseostudenthandbook/course-planning/meeting-high-school-requirements/science)\n- [PSEO Student Handbook - Health/Physical Education](https://sites.google.com/umn.edu/pseostudenthandbook/course-planning/meeting-high-school-requirements/healthphysical-education)"
+        ]
+      }
+    ]
+  }
+]
